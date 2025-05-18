@@ -86,9 +86,23 @@
               "icon": "lucide-file",
               "title": "Culture"
             }
+          },
+          {
+            "id": "a50a3fc9bc099950",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -366,8 +380,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c4d1c903fe5cafb7",
+  "active": "a50a3fc9bc099950",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Culture.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Hunting.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Cities/Makhan.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/People/Arsh'Eisaf.md",
@@ -378,7 +394,6 @@
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Foreign Relations/Relations.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Words and translations.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Language.md",
-    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Culture.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture",
     "Plains/The Shaping Cradle (Material)/The Abyss.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Religions",
@@ -400,7 +415,6 @@
     "z - Misc bits from stonefang campaign/Statblocks",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Kar'Tharun/People/The Magnificent Magmodo.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Syl'Vitara/Cities/Berynd.md",
-    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Syl'Vitara/Cities/Elenaril.md",
     "Plains/The Shaping Cradle (Material)/Continents/Eug/Eug Map.png",
     "Artifacts/Items",
     "Artifacts/Books",
