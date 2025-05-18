@@ -1,2 +1,4 @@
 .gitignore 
 .obsidian/ 
+
+/.obsidian/workspace.json
