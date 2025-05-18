@@ -1,0 +1,4 @@
+Sylwen Aelora is an Elven ranger and a current member of the triarchic government in Enathera.
+**Role:** Overseer of security and law enforcement in Enathera
+**Personality:** Stern but fair, Sylwen is a skilled ranger with a deep sense of duty to her people. She despises corruption but is caught between her ideals and the Coinwrights' leverage.
+**Secret (Blackmail):** Years ago, **her younger brother disappeared after being accused of murder**, and Sylwen used her position to **erase evidence and quietly send him into exile** instead of facing trial. The Coinwrights uncovered the truth and now hold **fabricated documents and false witnesses** that would paint her as a criminal. Exposure would mean **immediate exile or execution**.

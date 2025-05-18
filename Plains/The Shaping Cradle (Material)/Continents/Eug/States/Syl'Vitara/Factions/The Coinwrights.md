@@ -1,0 +1,1 @@
+The Coinwrights are a guild of thieves and merchants in the south and eastern regions of [[Plains/The Shaping Cradle (Material)/Continents/Eug/States/Syl'Vitara/Syl'Vitara|Syl'Vitara]]. Due to their wealth, they can have high influence over smaller local governments who can be easily bought over or asked to turn a blind eye.

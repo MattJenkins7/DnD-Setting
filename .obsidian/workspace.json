@@ -1,0 +1,399 @@
+{
+  "main": {
+    "id": "10a32db1eef429ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25d61814d1a7684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a16db91cda3501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plains/The Shaping Cradle (Material)/The Abyss.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Abyss"
+            }
+          },
+          {
+            "id": "1580ba5801c7014f",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "09c0c817d25305f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z - Misc bits from stonefang campaign/Lair Action Turns.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lair Action Turns"
+            }
+          },
+          {
+            "id": "57f82d2388235cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Magmodo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Magmodo"
+            }
+          },
+          {
+            "id": "fb97e9d443b20977",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c4d1c903fe5cafb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Culture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Culture"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb3c06e73e91f3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e61f1152e5396ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a076231f1086c7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "436d933687aa2611",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d158c5452777157f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2efd0063d65c0b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc6facff102efc0",
+        "type": "tabs",
+        "dimension": 19.047619047619047,
+        "children": [
+          {
+            "id": "9ee89f506043c98d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Kar'Tharun/Cities/Stonefang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stonefang"
+            }
+          },
+          {
+            "id": "e71180fdec342f18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Kar'Tharun/Cities/Stonefang.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stonefang"
+            }
+          },
+          {
+            "id": "4667d01828d10504",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbbe4fb39c156890",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f7b1658ff7b639c0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6930e79149440ef2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "24460f88e0e6e9fc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "832c80dc2a021113",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "191f2bfbd92de821",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "28f453d691cb4379",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "a77266ae44e6da9c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "a3f2fbfa00b6cd97",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 11
+      },
+      {
+        "id": "132bb6bdb888d3e0",
+        "type": "tabs",
+        "dimension": 61.904761904761905,
+        "children": [
+          {
+            "id": "105b122c611ab977",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ba90a5258ff0008d",
+        "type": "tabs",
+        "dimension": 19.047619047619047,
+        "children": [
+          {
+            "id": "5dfffa5ea5984466",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c4d1c903fe5cafb7",
+  "lastOpenFiles": [
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Hunting.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Cities/Makhan.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/People/Arsh'Eisaf.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Factions/Shra'Chki.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/People/Shra'Arsh.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Music and Art.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Religions/Religion.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Foreign Relations/Relations.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Words and translations.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Language.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture/Culture.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Culture",
+    "Plains/The Shaping Cradle (Material)/The Abyss.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Shra'iik Desert/Religions",
+    "Artifacts/Books/Contaminated Leylines – Tainted Earth and Flowing Doom.md",
+    "Gods/Untitled",
+    "poop/Untitled",
+    "z - Misc bits from stonefang campaign",
+    "z - Misc bits from stonefang campaign/Lair Action Turns.md",
+    "z - Misc bits from stonefang campaign/Campaign Plan.md",
+    "z - Misc bits from stonefang campaign/Abhaddanayla fight.md",
+    "z - Misc bits from stonefang campaign/Statblocks/Abyssal Specter.md",
+    "z - Misc bits from stonefang campaign/Untitled.md",
+    "z - Misc bits from stonefang campaign/To-Do.md",
+    "z - Misc bits from stonefang campaign/Statblocks/Abhaddan.md",
+    "z - Misc bits from stonefang campaign/Statblocks/Rallos.md",
+    "z - Misc bits from stonefang campaign/Statblocks/Meinos.md",
+    "z - Misc bits from stonefang campaign/Statblocks/Magmodo.md",
+    "Statblocks/Untitled",
+    "z - Misc bits from stonefang campaign/Statblocks",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Kar'Tharun/People/The Magnificent Magmodo.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Syl'Vitara/Cities/Berynd.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/States/Syl'Vitara/Cities/Elenaril.md",
+    "Plains/The Shaping Cradle (Material)/Continents/Eug/Eug Map.png",
+    "Artifacts/Items",
+    "Artifacts/Books",
+    "Artifacts",
+    "Untitled.canvas"
+  ]
+}

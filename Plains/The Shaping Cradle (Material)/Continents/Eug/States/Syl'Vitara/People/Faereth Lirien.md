@@ -1,0 +1,4 @@
+Faereth Lirien is an Elven merchant and a member of the current triarchic government in Enathera.
+**Role:** Overseer of trade, commerce, and economic relations
+**Personality:** Intelligent and pragmatic, Faereth is a seasoned negotiator and well-respected for keeping Enathera’s economy stable. However, his confidence has turned to paranoia as the Coinwrights tighten their grip.
+**Secret (Blackmail):** Faereth made a **deal with smugglers** years ago, allowing illicit shipments to pass through Enathera’s docks in exchange for lucrative trade agreements. The Coinwrights uncovered this and now use it to keep him silent. If revealed, he would be **publicly shamed and stripped of his title**.

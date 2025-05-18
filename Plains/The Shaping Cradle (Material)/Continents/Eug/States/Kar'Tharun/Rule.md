@@ -1,0 +1,1 @@
+The State of Kar-Tharun is run through The Greater Council

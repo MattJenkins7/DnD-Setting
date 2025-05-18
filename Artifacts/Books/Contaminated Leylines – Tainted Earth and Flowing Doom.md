@@ -1,0 +1,3 @@
+- The plague originates from a **leyline corrupted by the remnants of Rallos' experiments** with planar communication.
+- Anyone who **spends too much time near a tainted leyline nexus** (like a dwarven mine, a temple ruin, or even a forgotten sewer tunnel) risks exposure.
+- Some **mages, clerics, and alchemists** have unknowingly drawn upon **this corrupted energy**, using it in potions, rituals, or constructs, spreading the disease into the city’s magical economy.

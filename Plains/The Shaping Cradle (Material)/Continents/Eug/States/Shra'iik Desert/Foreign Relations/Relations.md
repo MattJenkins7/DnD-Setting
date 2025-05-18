@@ -1,0 +1,3 @@
+As previously mentioned they mainly keep to themselves. Regarding an interaction with another species, they will try to deter them from their land when seen from a distance by buzzing their wings in unison and telepathically saying leave. If need be, they will enforce aggression and kill/destroy anything that does not agree with the Thri’Kreen’s wishes. 
+
+The only race they tolerate are the Thaudarii, who they meet with in times of trouble or cosmic events. They see them as less friends of the people and more friends of the land, as they share the region which allows the Thri’Kreen to see them as a non enemy under any circumstances (unless heavily provoked).
