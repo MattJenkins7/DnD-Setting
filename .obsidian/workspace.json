@@ -28,8 +28,8 @@
             "state": {
               "type": "intiative-tracker-encounter-builder",
               "state": [],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -145,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e2efd0063d65c0b0",
@@ -154,7 +154,7 @@
       {
         "id": "9dc6facff102efc0",
         "type": "tabs",
-        "dimension": 19.047619047619047,
+        "dimension": 27.832512315270936,
         "children": [
           {
             "id": "9ee89f506043c98d",
@@ -254,8 +254,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -264,8 +264,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -274,8 +274,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -283,8 +283,9 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -296,6 +297,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "546d4a1e42c89a3f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
         "currentTab": 11
@@ -303,7 +314,7 @@
       {
         "id": "132bb6bdb888d3e0",
         "type": "tabs",
-        "dimension": 61.904761904761905,
+        "dimension": 47.53694581280788,
         "children": [
           {
             "id": "105b122c611ab977",
@@ -320,7 +331,7 @@
       {
         "id": "ba90a5258ff0008d",
         "type": "tabs",
-        "dimension": 19.047619047619047,
+        "dimension": 24.63054187192118,
         "children": [
           {
             "id": "5dfffa5ea5984466",
@@ -349,9 +360,9 @@
       "markdown-importer:Open format converter": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-git:Open Git source control": false
     }
   },
