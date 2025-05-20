@@ -1,6 +1,6 @@
 #### **Early Life and Aspirations**
 
-Rallos was born in the city of [[Plains/The Shaping Cradle (Material)/Continents/Eug/States/Kar'Tharun/Cities/Stonefang/Stonefang|Stonefang]] to a family of devout scholars. Raised in the hallowed halls of the Thaumaturgic Conservatory, he was taught from an early age that knowledge was the highest pursuit, and that understanding the divine weave of magic was both a responsibility and a privilege. Unlike many of his peers, who focused on traditional arcane practices, Rallos was drawn to the mysteries of the planes—specifically, the unseen forces that shaped them.
+Rallos was born in the city of Stonefang Hold to a family of devout scholars. Raised in the hallowed halls of the Thaumaturgic Conservatory, he was taught from an early age that knowledge was the highest pursuit, and that understanding the divine weave of magic was both a responsibility and a privilege. Unlike many of his peers, who focused on traditional arcane practices, Rallos was drawn to the mysteries of the planes—specifically, the unseen forces that shaped them.
 
 By the age of 24, he had earned a place as an Arcanist within the High Assembly, where he studied the nature of leylines and extraplanar resonance. His early research gained him some renown, particularly his work on _Soul Windows_—arcane devices capable of transmitting minute traces of planar energy into comprehensible signals. His ultimate goal was to bridge the gaps between planes, to create a dialogue with realms beyond understanding.
 
