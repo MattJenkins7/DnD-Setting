@@ -59,15 +59,15 @@ _Attack:_ +5 to hit | _Damage:_ 1d8+2 piercing | _Range:_ 80/320 ft
 
 #### 1st Level Spells (6 Known)
 
-- **Tasha's Caustic Brew** - 2d4 acid damage, ongoing damage
-- **Absorb Elements** - Reduce damage, add to next attack
-- **Catapult** - Launch object for 3d8 bludgeoning
-- **Cure Wounds** _(Alchemist - Always Prepared)_
+- **Tasha's Caustic Brew** - 2d4 acid damage (DEX Save), concentration for 1m, 30ft stream
+- **Absorb Elements** - Reduce damage by 1d6, add to next attack
+- **Catapult** - Launch object for 3d8 bludgeoning 60ft (DEX Save)
+- **Cure Wounds** - 2d8 Healing Touch _(Alchemist - Always Prepared)_
 - **Identify** _(Alchemist - Always Prepared)_
 
 #### 2nd Level Spells (2 Known)
 
-- **Alter Self** - Change appearance/abilities for 1 hour
+- **Pyrotechnics** - Make a fire into 20ft radius smoke 1m, or 10ft radius blinding (CON Save) flames
 - **Invisibility** - Turn invisible for 1 hour
 
 ---
@@ -191,7 +191,7 @@ _Attack:_ +5 to hit | _Damage:_ 1d8+2 piercing | _Range:_ 80/320 ft
 
 ### Feature: Discovery
 
-You've discovered a unique and powerful piece of knowledge - perhaps a new alchemical formula, a forgotten truth about the nature of magic, or insight into the workings of poison and antidotes. Work with your DM to determine the nature of this discovery.
+You've discovered a unique and powerful piece of knowledge - perhaps a new alchemical formula, a forgotten truth about the nature of magic, or insight into the workings of poison and antidotes. 
 
 ---
 
@@ -201,16 +201,11 @@ You've discovered a unique and powerful piece of knowledge - perhaps a new alche
 
 A crazy old goblin scientist who uses syringes filled with his homemade poisons and chemicals instead of traditional weapons. Brilliant but antisocial, having spent years in isolation perfecting his craft.
 
-### Combat Flavor
+### Flavor
 
 - "Poison dagger" attacks are actually syringe injections
 - Spell attacks involve throwing vials or using spray devices
 - Sneak attacks represent hitting vital points with precise injections
 - Experimental elixirs are strange brews with unpredictable effects
-
-### Suggested Personality Traits
-
-- Mutters chemical formulas under breath
-- Tests new concoctions on willing (or unwilling) subjects
 - Carries multiple vials and syringes at all times
 - Excited by new specimens or rare components
