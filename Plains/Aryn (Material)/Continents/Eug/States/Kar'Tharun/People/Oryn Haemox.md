@@ -1,5 +1,5 @@
 - **Once a respected herbologist and geologist** in Stonefang Hold, known for his research into leylines and their effects on natural life.
-- **Ex-husband of [[Plains/The Shaping Cradle (Material)/Continents/Eug/States/Kar'Tharun/People/Rallos Goxhan|Rallos Goxhan]]**, their relationship ended over ideological differences—Oryn believed in studying the world, while Rallos wanted to **breach the barriers between planes**.
+- **Ex-husband of [[Plains/Aryn (Material)/Continents/Eug/States/Kar'Tharun/People/Rallos Goxhan|Rallos Goxhan]]**, their relationship ended over ideological differences—Oryn believed in studying the world, while Rallos wanted to **breach the barriers between planes**.
 - **Moved to Uzordre, on the Northern Omon Peninsula**, living in a wealthy estate with an expansive **botanical garden** connected to his mansion.
 - **Knows about Rallos' research into planar magic but has intentionally distanced himself**, though he likely suspects what became of him.
 

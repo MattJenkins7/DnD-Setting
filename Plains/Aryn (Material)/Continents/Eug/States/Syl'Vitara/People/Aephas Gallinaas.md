@@ -1,1 +1,1 @@
-Aephas Gallinaas is an Elven merchant and local leader of the [[Plains/The Shaping Cradle (Material)/Continents/Eug/States/Syl'Vitara/Factions/The Coinwrights|The Coinwrights]] in Enathera. 
+Aephas Gallinaas is an Elven merchant and local leader of the [[Plains/Aryn (Material)/Continents/Eug/States/Syl'Vitara/Factions/The Coinwrights|The Coinwrights]] in Enathera. 

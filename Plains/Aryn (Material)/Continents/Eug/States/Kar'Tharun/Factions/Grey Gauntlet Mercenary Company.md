@@ -2,7 +2,7 @@
 
 **Motto:** _"Bound by coin, tempered in war."_
 
-The **Grey Gauntlet** is a **neutral mercenary band** known for its professionalism and refusal to engage in wanton cruelty. They take contracts from **city-states, noble houses, and merchant guilds**, operating in [[Plains/The Shaping Cradle (Material)/Continents/Eug/States/Kar'Tharun/Cities/Stonefang Hold|Stonefang Hold]] Hold, and the surrounding regions**. The Gauntlet does not fight for causes—**only for coin**—though their reputation for **honor among mercenaries** has earned them loyal clients.
+The **Grey Gauntlet** is a **neutral mercenary band** known for its professionalism and refusal to engage in wanton cruelty. They take contracts from **city-states, noble houses, and merchant guilds**, operating in [[Plains/Aryn (Material)/Continents/Eug/States/Kar'Tharun/Cities/Stonefang Hold|Stonefang Hold]] Hold, and the surrounding regions**. The Gauntlet does not fight for causes—**only for coin**—though their reputation for **honor among mercenaries** has earned them loyal clients.
 
 ### **Structure & Ideology**
 
