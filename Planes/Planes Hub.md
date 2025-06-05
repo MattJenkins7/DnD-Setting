@@ -1,0 +1,5 @@
+# [[Planes/The Nexus Core/Nexus Core Hub|The Nexus Core]]
+# [[Planes/Cthnyxia (Underworld)/Cthnyxia Hub|Cthnyxia (The Underworld)]]
+# [[Planes/Aryn (Material)/Aryn Hub|Aryn (The Material Plane)]]
+# [[Planes/Rakasha (Astral)/Rakasha Hub|Rakasha (The Astral Plane)]]
+# [[Planes/Cadhatu (Elemental)/Cadhatu Hub|Cadhatu (The Elemental Plane)]]

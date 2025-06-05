@@ -1,3 +1,3 @@
-Palasik, The Spiral King, Lord of Rhazhak and the Tearing Mind, Prophet of Sanity's End, Keeper of Screams and insane ruler of the 4th belt; [[Plains/Cthnyxia (Underworld)/Belts/Rhazhak/-- Rhazhak Hub --|Rhazhak]].
+Palasik, The Spiral King, Lord of Rhazhak and the Tearing Mind, Prophet of Sanity's End, Keeper of Screams and insane ruler of the 4th belt; [[Planes/Cthnyxia (Underworld)/Belts/Rhazhak/-- Rhazhak Hub --|Rhazhak]].
 
 Palasik takes the corporeal form of a tall, many-jointed humanoid with a head of writhing ink quills and countless eyes that shift across his body like oil. His mouth speaks _inward_, pulling in words from the air around him. His robe is made of endlessly scrolling nonsensical scripture.

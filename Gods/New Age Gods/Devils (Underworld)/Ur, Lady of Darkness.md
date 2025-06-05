@@ -1,3 +1,3 @@
-Mistress of Naal, She Who Is Not, the Void, The Lady of Darkness is amongst the most powerful beings in all existence, she is the rightful and unchallenged ruler of the 7th belt; [[Plains/Cthnyxia (Underworld)/Belts/Naal/-- Naal Hub --|Naal]].
+Mistress of Naal, She Who Is Not, the Void, The Lady of Darkness is amongst the most powerful beings in all existence, she is the rightful and unchallenged ruler of the 7th belt; [[Planes/Cthnyxia (Underworld)/Belts/Naal/-- Naal Hub --|Naal]].
 
 She exists as a cloud of sentient black fog, shot through with flickers of humanoid silhouettes and crowned with a shifting, half-formed feminine face that never fully resolves. The essence of darkness.

@@ -1,0 +1,4 @@
+Orvil Thandorin is an Elven elder and a member of the current Triarch in [[Planes/Aryn (Material)/Continents/Eug/States/Syl'Vitara/Cities/Enathera|Enathera]].
+**Role:** Spiritual and cultural advisor, responsible for overseeing rituals and guiding Enathera’s traditions
+**Personality:** Kind but reserved, Ovril is seen as the town’s guiding elder, deeply connected to the ancient ways. However, the weight of blackmail has left him withdrawn and fearful.
+**Secret (Blackmail):** Ovril secretly **fathered a child with a human decades ago**, breaking Syl'Vitara’s strict cultural expectations. Though the child was sent away to live in another town, the Coinwrights **discovered letters and hidden records** of his attempts to stay connected. If exposed, he would lose all respect and influence, and the child could be **hunted down as an outcast**.

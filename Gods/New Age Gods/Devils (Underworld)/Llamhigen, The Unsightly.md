@@ -1,3 +1,0 @@
-The Drowned Heiress, Lady of Tywylfan, and Horror of the Deep, Llamhigen or Llamhigyn, is the Forsaken Daughter of Balthazar and the rightful heir to Cthnyxia. She is also the Lady of the 2nd belt; [[Plains/Cthnyxia (Underworld)/Belts/Tywylfan/-- Tywylfan Hub --|Tywylfan]].
-
-Llamhigen takes the form of a nightmare amalgam of frog, eel, and corpse, she walks upright but her legs twist backward. Her limbs are too long and end in splayed, webbed claws, with translucent flesh revealing twitching bones and glowing eggs.

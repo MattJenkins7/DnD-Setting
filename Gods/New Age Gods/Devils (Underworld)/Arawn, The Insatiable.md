@@ -1,3 +1,3 @@
-Sovereign of Endless Want, Warden of Hollow Thrones and The Gluttonous King of [[Plains/Cthnyxia (Underworld)/Belts/Annwn/-- Annwn Hub --|Annwn]], the 1st belt of Cthnyxia and Devil of the tenets of Greed and Gluttony.
+Sovereign of Endless Want, Warden of Hollow Thrones and The Gluttonous King of [[Planes/Cthnyxia (Underworld)/Belts/Annwn/-- Annwn Hub --|Annwn]], the 1st belt of Cthnyxia and Devil of the tenets of Greed and Gluttony.
 
 Arawn is embodied by a hulking, gold-veined humanoid titan. His distended stomach constantly writhes, with ribcages fused to his spine like a cage to contain gluttony itself. His fingers are long spoons and forks, and his mouth stretches from navel to brow.

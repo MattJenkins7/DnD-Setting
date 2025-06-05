@@ -1,3 +1,3 @@
-Matriarch of Punishment, Corruption and Imprisonment, also known as the Matron of Chains, Queen of Bhumi, and the Jailer. Ruler of the 3rd belt of Cthnyxia, [[Plains/Cthnyxia (Underworld)/Belts/Bhumi/-- Bhumi Hub --|Bhumi]].
+Matriarch of Punishment, Corruption and Imprisonment, also known as the Matron of Chains, Queen of Bhumi, and the Jailer. Ruler of the 3rd belt of Cthnyxia, [[Planes/Cthnyxia (Underworld)/Belts/Bhumi/-- Bhumi Hub --|Bhumi]].
 
 A four-armed, iron-skinned crone cloaked in chains that move as if alive. Her body is wrapped in rusted armour fused to her flesh, with prison bars emerging from her back like wings. Her eyes are censers, constantly steaming. She carries a colossal dark steel warhammer. 

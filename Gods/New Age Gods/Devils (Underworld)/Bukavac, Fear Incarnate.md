@@ -1,3 +1,3 @@
-Lord of Dravna, The Howl, Black Pulse of Terror, Archdevil of fear and Lord of [[Plains/Cthnyxia (Underworld)/Belts/Dravna/-- Dravna Hub --|Dravna]]; the 6th belt.
+Lord of Dravna, The Howl, Black Pulse of Terror, Archdevil of fear and Lord of [[Planes/Cthnyxia (Underworld)/Belts/Dravna/-- Dravna Hub --|Dravna]]; the 6th belt.
 
 Bukavac takes the form of A six-legged hunched wolf covered in bone-like plating, with human faces stretched across his chest and legs, each frozen mid-scream. A ring of eyes around his neck blinks in all directions. His tongue is barbed and constantly tasting for fear.
