@@ -1,0 +1,1 @@
+Pwca is a gambler, a twisted goblinoid creature known for the greed and cunning he possesses. He makes deals with those with nowhere else to turn. A cruel beast and ruler of the 5th belt; [[Plains/Cthnyxia (Underworld)/Belts/Caerthennog/-- Caerthennog Hub --|Caerthennog]].

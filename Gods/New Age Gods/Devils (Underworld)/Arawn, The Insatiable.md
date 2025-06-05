@@ -1,0 +1,1 @@
+King of [[Plains/Cthnyxia (Underworld)/Belts/Annwn/-- Annwn Hub --|Annwn]], the 1st belt of Cthnyxia and Devil of the tenets of Greed and Gluttony.

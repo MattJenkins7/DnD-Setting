@@ -1,0 +1,1 @@
+The lady of darkness is amongst the most powerful beings in all existence, she is the rightful and unchallenged ruler of the 7th belt; [[Plains/Cthnyxia (Underworld)/Belts/Naal/-- Naal Hub --|Naal]].

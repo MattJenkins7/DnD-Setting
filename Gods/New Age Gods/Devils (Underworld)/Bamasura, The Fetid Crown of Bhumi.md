@@ -1,0 +1,1 @@
+Matriarch of Punishment, Corruption and Imprisonment, also known as the Jailer. Ruler of the 3rd belt of Cthnyxia, [[Plains/Cthnyxia (Underworld)/Belts/Bhumi/-- Bhumi Hub --|Bhumi]] 

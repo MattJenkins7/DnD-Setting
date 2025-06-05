@@ -1,0 +1,1 @@
+Llamhigen or Llamhigyn, is the Forsaken Daughter of Balthazar and the rightful heir to Cthnyxia. She is also the Lady of the 2nd belt; [[Plains/Cthnyxia (Underworld)/Belts/Tywylfan/-- Tywylfan Hub --|Tywylfan]].

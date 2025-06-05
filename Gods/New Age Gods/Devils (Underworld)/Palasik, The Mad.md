@@ -1,0 +1,1 @@
+Palasik, The babbling lord and insane ruler of the 4th belt; [[Plains/Cthnyxia (Underworld)/Belts/Rhazhak/-- Rhazhak Hub --|Rhazhak]].
