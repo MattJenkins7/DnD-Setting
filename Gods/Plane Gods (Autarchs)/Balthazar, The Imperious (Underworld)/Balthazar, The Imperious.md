@@ -1,0 +1,3 @@
+The Imperious, The First Sin, Throne Eternal of Cthnyxia, Sovereign of the Ninth Flame, Architect of All Damnation and Herald of the Endmost Dawn, Archdevil Supreme Balthazar of the Nine is the most powerful being in all of Cthnyxia challenged only by the Lady of Darkness herself, Ur, and the second most powerful being in known existence.
+
+He takes the form of a colossal, multi-horned humanoid with armour fused into his flesh, like a living throne. His skin is volcanic rock, and his veins glow with molten brass. Crowned with a living halo of spinning swords, he carries a smoldering halberd that towers over him.
