@@ -1,20 +1,17 @@
 ---
 rapport:
-  BobTheBarkeep:
-    player1: 10
-    player2: 2
-    player3: 10
-    player4: 10
-  AriaTheWizard:
-    player1: 10
-    player2: 10
-    player3: 10
-    player4: 10
-  CaptainThorn:
-    player1: 10
-    player2: 10
-    player3: 10
-    player4: 10
+  Garrick Ethis:
+    Ash: 11
+    Mocoda: 13
+    Tanyl: 12
+  Name:
+    Ash: 10
+    Mocoda: 10
+    Tanyl: 10
+  Name2:
+    Ash: 10
+    Mocoda: 10
+    Tanyl: 10
 ---
 
 ```dataviewjs
