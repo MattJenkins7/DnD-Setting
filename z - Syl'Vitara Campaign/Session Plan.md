@@ -11,3 +11,9 @@
 - The party escapes.
 - They find a damaged wall leading back into the complex, behind which they hear frantic voices.
 - Continuing along the crevasse, they spot a faint exit from the cliff face and a stone door engraved with the image of a lady, inscribed with a mantra they do not yet recognize as the key to the false cave exit.
+
+### Session 2
+- Hear a voice coming from behind them, guard checking escape route
+- If they wear the robes, constitution check or something happens
+- If they re-enter the compound, they hear cult members talking about the goods they stole from the convoy (name of two elven nobles that are held), to be sacrificed
+- 
