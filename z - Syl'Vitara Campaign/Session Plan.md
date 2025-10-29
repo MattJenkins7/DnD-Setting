@@ -16,4 +16,9 @@
 - Hear a voice coming from behind them, guard checking escape route
 - If they wear the robes, constitution check or something happens
 - If they re-enter the compound, they hear cult members talking about the goods they stole from the convoy (name of two elven nobles that are held), to be sacrificed
+- What goods are at the Sanctuary for the players?
+- What happens if they fight the guards
+- Why did they capture the elven nobles
+- What are the people of Ar-Vig like?
+- What can the players do in Ar-Vig to earn money
 - 
