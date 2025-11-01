@@ -1,17 +1,45 @@
 ### Session 1
-- Around 7am Players meet in inn
-- Around 7am Players meet Garrick
-- Around 7am Players begin carriage ride toward Sera
-- Around 1pm Players encounter bear on the road, defeat the bear, eat bear meat for lunch
-- Around 7pm players encounter vandalized statue and shrine, don't notice sigil (nat 1 Tanyl)
-- Around 9pm players begin taking night time shifts on the carriage (Tanyl-**Garrick**, Tanyl-**Coda**)
-- Around 1am shift switches
-- Around 2am ambushed by cultists, don't notice relation to statue vandalism, notice red magic
-- Around 2am lose fight, are sedated and kidnapped, after being defeated
-- Around 12pm day after, players and Garrick awake in rocky cell, hear elf being interrogated, hear the insinuation of torture and horrors, hear about convoy (attempted attack missed 2nd due to diversion)
-- Around 12pm escape through crumbling wall to small cave passage, escape noticed, suggestion used and all other prisoners were freed, chaos ensued
-- Around 12pm the players decide to sneak down narrow crevasse rather than small stream, notice whereabouts in relation to forest
-- Around 12pm the players find wall to inside of the complex, hear frantic voices
-- Around 12pm Ash sneaks down to entrance way, notices way out and also engraved stone entrance to the complex
+- 7am Players meet in inn
+- 7am Players meet Garrick
+- 7am Players begin carriage ride toward Sera
+- 1pm Players encounter bear on the road, defeat the bear, eat bear meat for lunch
+- 7pm players encounter vandalized statue and shrine, don't notice sigil (nat1 Tanyl)
+- 9pm players begin taking night time shifts on the carriage (Tanyl-**Garrick**, Tanyl-**Coda**)
+- 1am shift switches
+- 2am ambushed by cultists, don't notice relation to statue vandalism, notice red magic
+- 2am lose fight, are sedated and kidnapped, after being defeated
+- ==========================================================
+- 12pm day after, players and Garrick awake in rocky cell, hear elf being interrogated, hear the insinuation of torture and horrors, hear about convoy (attempted attack missed 2nd due to diversion)
+- 12pm escape through crumbling wall to small cave passage, escape noticed, suggestion used and all other prisoners were freed, chaos ensued
+- 12pm the players decide to sneak down narrow crevasse rather than small stream, notice whereabouts in relation to forest
+- 12pm the players find wall to inside of the complex, hear frantic voices
+- 12pm Ash sneaks down to entrance way, notices way out and also engraved stone entrance to the complex
 
 ### Session 2
+- 12pm the players hear a guard approaching behind them
+- 12pm the players subdue and interrogate the cultist who reveals there are about 20 or so others in the compound, he is a lowling and does not have access to high stuff, they don't know each others names, their stuff is in the entryway to the prison section
+- 12pm Tanyl notices a sigil that matches the pattern of blood on the statue
+- 12pm the players steal his clothes and gag and bind him
+- 12pm Tanyl and Mocoda enter the compound, Mocoda is invisible, they take a few bits from the armory section before heading in
+- 12pm They enter the compound and are immediately stopped and asked for their "signs", Mocoda is seen despite being invisible, they trip over their words and the head guy says seize them, they get chased
+- 12pm They pick up a few bits before running out of the compound, the cultists do not follow into the sunlight
+- 12pm In the sunlight Tanyl begins to burn and seems paler than normal, the cold winds seems colder than usual to the whole party
+- 1pm they head down ~500m down the steps down the side of the mountain before reaching a ledge with no way down
+- 1pm they spot a sigil on the wall matching that on the garments, they say the passphrase "The Scarlet Kiss Awaits" which reveals a false surface in the floor where the steps continue down into
+- 1pm At the end of these stairs they reach a wall, there is a similar sigil, this time each need to say the passphrase and press their sigil up to it to reveal the exit individually, they decide to head to where they saw a smoke plume about 1km north
+- 2pm They reach the guard outpost, it is more heavily guarded than they would expect, maybe 7-8 guards, two who seem to be higher level captains, and one who seems to be an extremely high level captain brandishing a dark steel sword
+- 2pm They make themselves known to the guards who seem apprehensive and hostile to the party due to Tanyl's pale appearance and the robes they don
+- 2pm Before being seized by the guards, an illusory bolt strikes the captain interrogating them and he falls to the floor, turning they see that it was a group of three centaurs
+- 2pm Garrick seems friendly with these centaurs and immediately jumps on the central one, Tanyl and Mocoda hide up on a balcony in the guard outpost, ash sprints into the forest
+- 2pm The centaurs fight bravely but seem outmanned, they do not use lethal blows, they gesture that they should leave, mocoda and tanyl jump down and hop on them before the centaurs sprint off into the forest, grabbing ash on the way. They guards never attacked the players
+- 3pm The players are led down a small hollow before reaching a sanctuary that glows and hums with pixie dust and druidic energy, a collection of dryads, pixies, fairies, and centaur are in this camp, facilities include a quartermistress dryad who can craft basic magic items from natural materials in seconds (Fleur), broth being made, tents and bedrolls, and a small area for medical treatments
+- 3pm Garrick knows the Centaur who he introduces as Arnie (Arnwen), it is revealed that Garrick has a reputation in the natural world as a hero, he was once a lieutenant who commanded a fleet of soldiers, and when the elves were fighting the goliaths a few hundred years ago Garrick refused to send his men in, another fleet was decimated and he was dishonorably discharged.
+- 4pm The players are given some magical items by fleur and help themselves to some broth from the pot
+- 4pm The players fall asleep, Garrick is taken aside by Arnwen for a private word, no-one eavesdrops.
+- ============================================================
+- 6am The players awake, and take some stew for the journey before heading to the nearby town of Ar-Vig
+- 8am The players arrive and begin to look around, the town is small but sprawling with no large buildings but a somewhat large population ~1400, landmarks include a tavern ("The Silent Satyr"), a barracks, a city hall, a bank, a tailor ("Varith's Vestments"), a blacksmith's, an alchemist and apothecary, a baker, a market square where traders set up stalls like floristry, and goods from other lands, and a small chapel to Serapha, the town square has a fountain statue of serapha.
+- 9am Mocoda busks for a brief while and earns 8gp, Tanyl enters the town hall asking about nearby libraries or schools and is told about one in Mucculd, asks where he can make some gold and is directed toward the missives board in the tavern
+- 10am The players enter the tavern and introduce themselves to the tavernkeep Molla Yuret. Mocoda asks if he could earn some gold performing in the tavern tonight, he manages to haggle to a set fee of 19gp with a potential for 11gp based on performance, Tanyl checks out the missives board and spies a few jobs that could be done, clearing out Orspring farm about 5km south and dairy of a rat infestation on the grain fields they have for 10gp, or retrieving a family heirloom engraved sword from a centaur's tomb about 3km east of the town, the rest are jobs worth silver pieces.
+- 11am The players head to the barracks to speak with the guards about the encounter they had on the road, they are introduced to Captain Elan Thirwell whom they tell about their troubles, Elan says it is very helpful and asks if they would be able to help with a strike on the compound tomorrow night as they have been trying for a while to locate these cultists but to no avail. She also sheds a bit of light on the convoys that were hit, and why the party's carriage was hit.
+- 11am The party decides to do the job at Orspring farm.

@@ -14,11 +14,47 @@
 
 ### Session 2
 - Hear a voice coming from behind them, guard checking escape route
-- If they wear the robes, constitution check or something happens
-- If they re-enter the compound, they hear cult members talking about the goods they stole from the convoy (name of two elven nobles that are held), to be sacrificed
-- What goods are at the Sanctuary for the players?
-- What happens if they fight the guards
-- Why did they capture the elven nobles
+- If they wear the robes, constitution check every hour or they get paler, they begin to burn 1d4 in the sunlight per hour and have disadvantage on sight checks
+- If they re-enter the compound, they hear cult members talking about the goods they stole from the convoy and the names of Maele Wysara, Tanyth Wysara, and Amra Wysara to be sacrificed for "the ritual", disgruntlement at the leader of this cult for being selfish, other says who are they to stand up to him anyway, you know what he's capable of
+- If they escape without getting their stuff, they still find some cultists cloaks that they could wear to protect them from the cold winds (perceptive players may notice that the winds are colder than usual, this is because - players don't know this - the goliaths are rallying their deity, that no-one knows much about except potentially firbolg, later content for the campaign though)
+- Once escaped they find a smoke plume coming from north along the road about 1km away (guard outpost), at this guard outpost, despite small theres a lot of guards (7-8), more than would be expected, some of whom are high ranking, especially weird for a small guard outpost like this
+- Wearing these cloaks, guards mistake them for cultists that have been seen roaming these roads at night and ambushing and kidnapping people who have been disappearing and so the guards are initially very hostile to them
+- Whether the players manage to calm the guard down or not is dependent on a persuasion DC 20, DC25 Unhands them, DC 30 to lose any hostility, if failed they are shot at.
+- Regardless, a centaur in the first round of combat (Arnwen) shoots at the first guard, in the head, instantly killing this guard captain
+- The players can choose to either fight with the guards (7, 2 more captains and 5 regular) or the centaur (3), if get very low, the centaur flee
+- The centaur will lead them to the sanctuary if the fight is won, centaur are hesitant to shed blood of guards and will flee if the opportunity is right
+- It is revealed at the sanctuary that Garrick is somewhat revered in the forest and when it was seen that he was in trouble, the centaur had his back, because of the humanity, dishonorably discharged whole thing
+- At the sanctuary there are a number of dryads (5) many pixies and fairies (10-15) and 5 more centaur (8 total)
+- If the players fight the centaur the guards state it is not safe here and take them to a cell in Ar-Vig to be questioned of their allegiance.
+- The players will be asked but ultimately unless rolls are exceptionally bad, the guards will let them go after receiving information. It is revealed that the guards are hostile due to Garrick's reputation (Garrick being the carriage driver they had, he has a past as a soldier but dishonorably discharged due to refusing to send his fleet in to fight the goliaths when the races were at war on the ridge tops, this led to another fleet of soldiers being brutally massacred, this is because he saw the humanity in the goliaths)
+- The players are given some basic garments, and equipment (daggers, swords, light leather armor)
+- In Ar-Vig 4 braziers are seen pluming smoke high into the air at around 5pm that day, upon further inspection it is a funeral for 4 of the 7 soldiers who were supposed protect the first convoy (Maele, Amra, and Tanyth)
+- The 2 remaining Wysara family members, Myreth and Meriel are found distraught in the local inn, being consoled by the captain of the guard fleet protecting them.
+- In the sanctuary, Fleur grants the players access to a number of basic gear:
+	- **ARMOR**
+	- **1. Vinewoven Jerkin**  
+		- _This padded armor is made from endlessly weaving, silvery-green vines. It smells faintly of damp earth and fresh leaves._
+		- **Effect:** While wearing this armor, you can use an action to cast the _Entangle_ spell. Once this property is used, it can't be used again until you finish a short or long rest.
+	- **2. Ironwood Breastplate**  
+		- _This sturdy breastplate seems to be made of dark, polished wood, but it rings like metal when struck. A single, permanent leaf is embedded near the shoulder._
+		- **Effect:** You have a +1 bonus to AC while wearing this armor. It does not impose disadvantage on Stealth checks.
+	- **3. Mossfoot Wraps**  
+		- _These supple leather boots are lined with a soft, living moss that silently conforms to any surface._
+		- **Effect:** You have advantage on Dexterity (Stealth) checks made to move quietly. Additionally, you can use a bonus action to gain advantage on your next Dexterity (Acrobatics) check to balance, provided you are on a natural surface (stone, wood, earth). This bonus action can be used once per short rest.
+	- **WEAPONS**
+	- **1. Thorn-Slinger**  
+		- _A shortbow carved from yew, its string made of braided thorny vines. The arrows it fires seem to sprout tiny, sharp thorns in flight._
+		- **Effect:** This is a +1 Shortbow. Once per turn, when you hit a creature with an arrow from this bow, you can use a bonus action to have the target make a DC 13 Strength saving throw. On a failure, its speed is reduced by 10 feet until the start of your next turn.
+	- **2. Sapsinger**  
+		- _A club made from a single, knotted piece of heartwood. When swung, it makes a satisfying thwump and releases a faint, sweet scent._
+		- **Effect:** This simple weapon functions as a +1 Club. On a critical hit, the target must succeed on a DC 13 Constitution saving throw or be slowed until the end of your next turn (as the _Slow_ spell, but only affecting its speed, which is halved).
+	- **3. Flute of the Brush**
+		- *A flute carved from twisting wyrmwood. When blown it emits a high pitched vibrato that seems to resonate with the trees.*
+		- **Effect:** This +1 flute allows the wielder to cast speak with animals twice per day.
+- 
+- The elven nobles were captured for the sacrifice of blood to appease the sanguine lady, she will choose a new material plane champion, granting them some status of importance
+- Centaur tells them about the town of Ar-Vig that could maybe be of use to them after introducing them to the sanctuary and offering them a few bits to help them on their way (money, jobs, vendors etc.)
+- Guards take them to prison at the town of Ar-Vig if they help kill the centaur
 - What are the people of Ar-Vig like?
 - What can the players do in Ar-Vig to earn money
 - 

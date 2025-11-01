@@ -1,17 +1,17 @@
 ---
 rapport:
   Garrick Ethis (Coach Driver):
-    Ash: 11
-    Mocoda: 13
-    Tanyl: 12
+    Ash: 12
+    Mocoda: 14
+    Tanyl: 13
   Arnwen (Centaur):
-    Ash: 10
-    Mocoda: 10
-    Tanyl: 10
+    Ash: 11
+    Mocoda: 11
+    Tanyl: 11
   Fleur (Dryad Quartermistress):
-    Ash: 10
-    Mocoda: 10
-    Tanyl: 10
+    Ash: 11
+    Mocoda: 11
+    Tanyl: 11
 ---
 
 ```dataviewjs
