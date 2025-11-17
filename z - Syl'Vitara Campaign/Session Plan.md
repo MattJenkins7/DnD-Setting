@@ -57,4 +57,18 @@
 - Guards take them to prison at the town of Ar-Vig if they help kill the centaur
 - What are the people of Ar-Vig like?
 - What can the players do in Ar-Vig to earn money
+
+### Session 3
+- Players decide to head 3km south to tend to the rat problem a farmer is having 
+- When they get there the farmer says "I don't have anything left to give please leave me alone", after telling him they are here for the rat infestation he seems very relieved to see them, note that his house is boarded up and the door is locked with multiple locks
+- Perceptive players can tell that the door has scratchmarks as do the windows, and he seems extremely tired, skittish, and stressed out.
+- He takes them about 200m east of the house to a small field, devoid of crops, where there are clear burrow holes, when the players get there he says here use this and hands them a scroll of tashas caustic brew that they can use on the burrows to get the rats out.
+- The players then return to Ar-Vig for 5pm
+- Mocoda plays his set at the Silent Satyr
+- See that some Event is going on in town that night after (idk what)
+- They could then go to do the other quest in the tomb of a centaur the day after which is to retrieve a family heirloom (sword) from the tomb of centaur
+- If they do, there is an undead centaur marauding as well as a few forest spirits in the tomb that they need to fight as this centaur is wielding the heirloom sword
+- Magic item list of things found in the urns and burial chests in the centaurs crypt
+- When they return to town it is night (7pm) but the event is happening
+- They then go to help out with clearing out the cultist compound that night (11pm)
 - 

@@ -43,3 +43,29 @@
 - 10am The players enter the tavern and introduce themselves to the tavernkeep Molla Yuret. Mocoda asks if he could earn some gold performing in the tavern tonight, he manages to haggle to a set fee of 19gp with a potential for 11gp based on performance, Tanyl checks out the missives board and spies a few jobs that could be done, clearing out Orspring farm about 5km south and dairy of a rat infestation on the grain fields they have for 10gp, or retrieving a family heirloom engraved sword from a centaur's tomb about 3km east of the town, the rest are jobs worth silver pieces.
 - 11am The players head to the barracks to speak with the guards about the encounter they had on the road, they are introduced to Captain Elan Thirwell whom they tell about their troubles, Elan says it is very helpful and asks if they would be able to help with a strike on the compound tomorrow night as they have been trying for a while to locate these cultists but to no avail. She also sheds a bit of light on the convoys that were hit, and why the party's carriage was hit.
 - 11am The party decides to do the job at Orspring farm.
+
+### Session 3
+- 11am Party gets food and departs for Orspring Farm about an hour and a half walk south of Ar-Vig.
+- 12pm Party arrives at Orspring farm to a boarded up and scratched at farm house and knock on door, man on the other side tells them he has nothing left to give, assuming they are bandits.
+- 12pm Party convinces him that they are here about the rats and he opens the locked door which takes him a while due to the number of locks he has.
+- 2pm When the door is opened, a horrible smell leaves through the doorway meeting the players noses. The man, hunched over in rags also smells quite terrible.
+- 2pm He leads them about 500m to the field that needs to be exterminated, the smell is just as bad here. Tanyl detects necromancy and transmutation coming from this field.
+- 2pm He hands them a scroll of Tasha's caustic brew to be used on the burrow holes in the field.
+- 2pm They begin to enter the field, the ground is quaking.
+- 2pm They fight these rats after using the scroll, some rats seem to want to go straight for the elderly man who runs away as fast as he can
+- 2pm Once dead the rats seem to shake and convulse before reanimating after a short time
+- 2pm Mocoda notices a charm on the mans neck which seems to be the cause of the rats' hostility.
+- 2pm After dispelling the magic on the necklace, the rats cease to move and the man tells them that he was sold this necklace by a well dressed traveller who said that it would make his fields much more fertile, which it has.
+- 3pm The man pays them handsomely and they begin to head out. The party invites the man to Mocoda's performance, to which he agrees.
+- 5pm The party returns to Ar-Vig just in time for Mocoda to begin playing, the party spends a night enjoying the fun, Tanyl and Ash recount stories of past conquests to a group of armored mercenary seeming folk.
+- 8pm Mocoda notices Elan enter and sit in the corner, she does not seem to be there for the music, but doesn't notice anything further about her company.
+- 11pm Mocoda is paid handsomely for his night of entertainment by charming Molla who now idolises him, and tells him that he may stay in the Silent Satyr free of charge for the night, the invitation is not extended to the party.
+- 8am After a full night's sleep at the tavern, the party decides to take up the offer of another missive on the board in the tavern, to retrieve an heirloom weapon from a centaur's crypt.
+- 10am They arrive at the Crypt and find that it glows of pixie dust inside, they continue on in.
+- 11am They arrive in the central cavernous area, over a bridge from their location in the cavern they spy a central chamber that is blocked by a gorgeous engraved stone door.
+- 11am They approach the door and notice that some pixies are approaching them from either side, Mocoda opens the door to reveal a verdant miniature terrarium inside the central area, which houses beautiful floral life and a large statue of a centaur in a battle ready pose wielding a greatsword in the air. Burial chests lie on each wall with thick vines and greenery covering them.
+- 11am The pixies begin to notice them as the statue begins to colour and move as it turns to face them.
+- Initiative:
+- Ash 11, Mocoda 3, Tanyl 11
+- Centaur Spirit 22
+- Pixies 2, Fairies 12
