@@ -12,6 +12,14 @@ rapport:
     Ash: 11
     Mocoda: 11
     Tanyl: 11
+  Molla:
+    Ash: 13
+    Mocoda: 18
+    Tanyl: 12
+  Sprigo:
+    Ash: 15
+    Mocoda: 12
+    Tanyl: 15
 ---
 
 ```dataviewjs
